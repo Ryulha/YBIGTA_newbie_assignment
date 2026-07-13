@@ -1,0 +1,5 @@
+submission/4_5670.py:82: error: Incompatible types in assignment (expression has type "None", variable has type "int")  [assignment]
+submission/3_1629.py:11: error: Missing return statement  [return]
+submission/5_2243.py:93: error: Need type annotation for "seg_tree"  [var-annotated]
+submission/1_1260.py:25: error: Need type annotation for "graph"  [var-annotated]
+Found 4 errors in 4 files (checked 10 source files)
